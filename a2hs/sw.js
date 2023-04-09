@@ -3,9 +3,10 @@ self.addEventListener('install', function(event) {
     caches.open('my-cache').then(function(cache) {
       return cache.addAll([
         '/',
-        '/index.html',
-        '/styles.css',
-        '/script.js'
+        '/a2hs/',
+        '/a2hs/index.html',
+        '/a2hs/styles.css',
+        '/a2hs/sw.js'
       ]);
     })
   );
