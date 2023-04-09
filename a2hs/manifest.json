@@ -1,0 +1,10 @@
+{
+  "name": "Calculator",
+  "icons": [
+    {
+      "src": "icon/fox.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
