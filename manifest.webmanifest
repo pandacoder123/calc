@@ -1,0 +1,15 @@
+{
+  "background_color": "blue",
+  "description": "Calculator",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "icon/fox.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "Calculator",
+  "short_name": "Calculator",
+  "start_url": "/calc/index.html"
+}
