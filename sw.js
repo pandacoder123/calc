@@ -1,10 +1,10 @@
 const cacheName = 'my-site-cache-v1';
 const urlsToCache = [
-  '/',
-  '/index.html',
-  '/index.js',
-  '/style.css',
-  '/icon/fox.png'
+  '/calc/',
+  '/calc/icon/fox.png',
+  '/calc/index.js',
+  '/calc/style.css',
+  '/calc/icon/fox.png',
 ];
 
 self.addEventListener('install', event => {
