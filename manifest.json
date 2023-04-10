@@ -7,12 +7,12 @@
   "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "/icons/fox.png",
+      "src": "/icon/fox.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/icons/fox.png",
+      "src": "/icon/fox.png",
       "sizes": "512x512",
       "type": "image/png"
     }
