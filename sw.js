@@ -1,6 +1,8 @@
 const cacheName = 'my-site-cache-v1';
 const urlsToCache = [
   '/calc/',
+  '/calc/terms.html',
+  '/calc/readme.md'
   '/calc/icon/fox.png',
   '/calc/index.js',
   '/calc/style.css',
