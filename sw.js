@@ -1,4 +1,4 @@
-const cacheName = 'my-site-cache-v1';
+const cacheName = 'my-site-cache-v2';
 const urlsToCache = [
   '/calc/',
   '/calc/terms.html',
